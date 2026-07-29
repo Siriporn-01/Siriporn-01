@@ -15,13 +15,11 @@
 สนใจด้าน Software Testing และ Business Analysis ปัจจุบันกำลังทดสอบระบบเว็บไซต์ประกันภัยข้าว โดยเน้นการออกแบบ Test Case, ทดสอบระบบอัตโนมัติด้วย Robot Framework, จัดทำข้อมูลทดสอบด้วย Excel และจัดทำเอกสารความต้องการ (Requirement) ด้วย Word มุ่งพัฒนาทักษะทั้งด้านการทดสอบซอฟต์แวร์และการวิเคราะห์ธุรกิจควบคู่กัน เพื่อเป็นสะพานเชื่อมระหว่างความต้องการทางธุรกิจกับทีมพัฒนา
 
 - 🔍 กำลังทำงานเกี่ยวกับ **ระบบเว็บไซต์ประกันภัยข้าว** (Rice Crop Insurance Platform)
-- 🌱 กำลังเรียนรู้: **Robot Framework ขั้นสูง, SQL, Agile & Scrum**
+- 🌱 กำลังเรียนรู้: **Robot Framework , SQL, Agile & Scrum**
 - 🛠 เครื่องมือที่ใช้ประจำ: **Robot Framework, Excel, Word**
 - 🎯 เป้าหมาย: **Mastering Software Quality & Business Analysis**
-- 💬 สอบถามฉันได้เรื่อง: **Software Testing & Business Analysis**
-- ⚡ Fun fact: **ชอบหาเคสแปลกๆ ที่คนอื่นมองข้าม**
 - 📄 เอกสารและเรซูเม่: [ดูเรซูเม่](#)
-- 📫 ติดต่อฉัน: **your-email@example.com** | [GitHub](#)
+- 📫 ติดต่อฉัน: **fexrnx@gmail.com** | [GitHub](#)
 
 ---
 
