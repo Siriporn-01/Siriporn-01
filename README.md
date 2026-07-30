@@ -52,6 +52,6 @@
 > **"บั๊กที่เจอวันนี้ คือปัญหาที่ป้องกันได้ในวันหน้า"**
 
 - 📧 **Email:** <fexrnx@gmail.com>
-- 🐱 **GitHub:** [YOUR_USERNAME](#)
+- 🐱 **GitHub:** [Siriporn-01](https://github.com/Siriporn-01)
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=b6c5ff)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Siriporn-01.Siriporn-01)
