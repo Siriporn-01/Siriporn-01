@@ -12,10 +12,10 @@
 
 ## 🚀 เกี่ยวกับฉัน
 
-สนใจด้าน Software Testing และ Business Analysis ปัจจุบันกำลังทดสอบระบบเว็บไซต์ประกันภัยข้าว โดยเน้นการออกแบบ Test Case, ทดสอบระบบอัตโนมัติด้วย Robot Framework, จัดทำข้อมูลทดสอบด้วย Excel และจัดทำเอกสารความต้องการ (Requirement) ด้วย Word มุ่งพัฒนาทักษะทั้งด้านการทดสอบซอฟต์แวร์และการวิเคราะห์ธุรกิจควบคู่กัน เพื่อเป็นสะพานเชื่อมระหว่างความต้องการทางธุรกิจกับทีมพัฒนา
+สนใจด้าน Software Testing และ Business Analysis ปัจจุบันกำลังทดสอบระบบเว็บไซต์แจ้งรายงานความเสียหายประกันภัยข้าว โดยเน้นการออกแบบ Test Case, ทดสอบระบบอัตโนมัติด้วย Robot Framework, จัดทำข้อมูลทดสอบด้วย Excel และจัดทำเอกสารความต้องการ (Requirement) ด้วย Word มุ่งพัฒนาทักษะทั้งด้านการทดสอบซอฟต์แวร์และการวิเคราะห์ธุรกิจควบคู่กัน เพื่อเป็นสะพานเชื่อมระหว่างความต้องการทางธุรกิจกับทีมพัฒนา
 
-- 🔍 กำลังทำงานเกี่ยวกับ **ระบบเว็บไซต์ประกันภัยข้าว** (Rice Crop Insurance Platform)
-- 🌱 กำลังเรียนรู้: **Robot Framework , SQL, Agile & Scrum**
+- 🔍 กำลังทำงานเกี่ยวกับ **ระบบเว็บไซต์แจ้งรายงานความเสียหายประกันภัยข้าว** (Rice Insurance Damage Reporting System)
+- 🌱 กำลังเรียนรู้: **Robot Framework, SQL, Agile & Scrum**
 - 🛠 เครื่องมือที่ใช้ประจำ: **Robot Framework, Excel, Word**
 - 🎯 เป้าหมาย: **Mastering Software Quality & Business Analysis**
 - 📄 เอกสารและเรซูเม่: [ดูเรซูเม่](#)
@@ -36,17 +36,14 @@
 
 ## 📌 โครงการที่ทำการทดสอบ
 
-| โปรเจกต์ | บทบาท | ไฮไลต์ | Environment |
-|---|---|---|---|
-| **🌾 ระบบเว็บไซต์ประกันภัยข้าว** | QA Tester / BA | Login Verification, การซื้อกรมธรรม์, การแจ้งเคลมสินไหม, การอนุมัติ/ปฏิเสธคำขอ — เขียน Automation Script ด้วย Robot Framework, จัดทำ Test Data ผ่าน Excel, จัดทำเอกสาร Requirement ด้วย Word | `Robot Framework` `Excel` `Word` |
-| **[ชื่อโปรเจกต์ 2]** | Business Analyst | เก็บ Requirement, จัดทำเอกสารความต้องการ, เขียน User Stories | `Word` |
+📱 **ระบบเว็บไซต์แจ้งรายงานความเสียหายประกันภัยข้าว** (Rice Insurance Damage Reporting System)
 
----
-
-## 📊 สถิติ GitHub
-
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine)
+- **ขอบเขตการทดสอบ (Testing Scope & Features):**
+  - Login & Register Verification
+  - Add / Edit / Submit Damage Report
+  - Approve / Reject Damage Report Workflow
+  - Calculate Claim Amount & Notify Status
+- **สภาพแวดล้อมระบบ (System Environment):** `Robot Framework` , `Excel` , `Word`
 
 ---
 
@@ -54,9 +51,7 @@
 
 > **"บั๊กที่เจอวันนี้ คือปัญหาที่ป้องกันได้ในวันหน้า"**
 
-- 📧 **Email:** <your-email@example.com>
+- 📧 **Email:** <fexrnx@gmail.com>
 - 🐱 **GitHub:** [YOUR_USERNAME](#)
 
 ![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=b6c5ff)
-
-![Footer](https://capsule-render.vercel.app/api?type=soft&color=b6c5ff&height=100&section=footer)
