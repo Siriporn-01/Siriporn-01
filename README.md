@@ -2,7 +2,7 @@
 
 # Hi I'm Siriporn Kanta
 
-**Software Tester • QA • Business Analyst**
+**Software Tester • Business Analyst**
 
 <sub><i>"ซอฟต์แวร์ที่ดี ไม่ได้แค่สร้างขึ้นมา แต่ต้องผ่านการทดสอบ ตั้งคำถาม และปรับปรุงอย่างรอบคอบ"</i></sub>
 
